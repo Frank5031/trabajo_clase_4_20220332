@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "ActApi4",
-    "slug": "ActApi4",
+    "name": "conexion-api",
+    "slug": "conexion-api",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Enroll.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#3b4cca"
     },
     "ios": {
       "supportsTablet": true
